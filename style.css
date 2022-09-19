@@ -419,7 +419,7 @@ button:hover{
 .footer-info{
     display: grid;
     grid-template-columns: 1fr 0.8fr 0.8fr 1.4fr;
-    justify-content:center;
+    place-items:center;
     align-items:center;
     padding: 50px 0;
     
