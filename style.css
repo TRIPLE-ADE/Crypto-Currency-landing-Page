@@ -114,7 +114,7 @@ button:hover{
 
 /* hero section styling start */
 .hero-page{
-    min-height:100vh;
+   margin-bottom:100px;
 }
 .container{
     display:grid;
@@ -420,6 +420,7 @@ button:hover{
    display: grid;
    grid-template-columns: 1fr 0.8fr 0.8fr 1.4fr;
     padding: 50px 0;
+    align-items:center;
 }
 .footer-info p{
     font-size: 1.20rem;
