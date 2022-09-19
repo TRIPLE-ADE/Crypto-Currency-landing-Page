@@ -419,13 +419,12 @@ button:hover{
 .footer-info{
     display: grid;
     grid-template-columns: 1fr 0.8fr 0.8fr 1.4fr;
-    place-items:center;
-    align-items:center;
     padding: 50px 0;
+    gap:30px;
     
 }
 .footer-info p{
-    font-size: 1.20rem;
+    font-size: 1.2rem;
     font-weight: 600;
     margin-bottom: 30px;
 }
