@@ -417,8 +417,9 @@ button:hover{
 /* footer section styling start */
 
 .footer-info{
-    display: grid;
-    grid-template-columns: 1fr 0.8fr 0.8fr 1.4fr;
+    display:flex;
+    align-items:start;
+    justify-content:space-between;
     padding: 50px 0;
     gap:30px;
     
